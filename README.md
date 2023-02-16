@@ -2,14 +2,14 @@
 <img  align = "left" src="https://media4.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e479z7kglauworlyq73p4bcau0ydnylvxhv5qiksezo&rid=giphy.gif&ct=g" alt="Coding">
 
 <h1 align="center">Hi 👋, I'm Maryam Saddiqa</h1>
-<h3 align="center">A passionate self taught frontend developer from Sweden</h3>
+<h3 align="center">A passionate and inquisitive back end developer who also likes to work with front end from Sweden</h3>
 <img align = "right"  width = "400" src="https://media4.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e47ykeuegrphobx3hj7q2cvlvtsx1fxuocm14yfs6bn&rid=giphy.gif&ct=g" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryams009&label=Profile%20views&color=0e75b6&style=flat" alt="maryams009" /> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms, java**
+- 🌱 I’m currently learning **AWS and Cloud Computing*
 
-- 💬 Ask me about **Html, CSS, Bootstrap, JavaScript, React,**
+- 💬 Ask me about **Java,SpringBoot,Spring Framework,MySQL,JPA,Spring MVC,Spring Security,Hibernate,Html, CSS, Bootstrap, JavaScript, React,**
 
 - 📫 How to reach me **Maryamsaddiqa77@gmail.com**
 
