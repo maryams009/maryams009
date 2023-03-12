@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryams009&label=Profile%20views&color=0e75b6&style=flat" alt="maryams009" /> </p>
 
-- 🌱 I’m currently learning **AWS and Cloud Computing*
+- 🌱 I’m currently learning **AWS and Cloud Computing*and OCAJP certification
 
 - 💬 Ask me about **Java,SpringBoot,Spring Framework,MySQL,JPA,Spring MVC,Spring Security,Hibernate,Html, CSS, Bootstrap, JavaScript, React,**
 
